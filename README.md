@@ -1,0 +1,2 @@
+# telpon
+cd telpon
